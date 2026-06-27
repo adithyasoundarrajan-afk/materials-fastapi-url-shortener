@@ -1,0 +1,6 @@
+fastapi>=0.110.0
+pydantic>=2.7.0
+uvicorn==0.17.6
+validators==0.18.2
+SQLAlchemy==1.4.32
+python-dotenv==0.19.2
