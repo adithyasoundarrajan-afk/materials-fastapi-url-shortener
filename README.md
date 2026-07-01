@@ -60,7 +60,7 @@ When the project is running you can visit the documentation in your browser:
 
 ## About the Author
 
-Philipp Acsany - Email: philipp@realpython.com
+Adithya S S - Email: adithyasoundarrajan@gmail.com
 
 ## License
 
